@@ -1,5 +1,9 @@
 ### Multi AI Agents RAG Chatbot using LangGraph and AstraDB
 
+## Use Case
+- User Query -> Start -> Router -> Wiki Search / Vector DB -> LLM -> END
+- Vector DB -> Astra DB
+- LLM + Prompt Engineering
 
 ## Setting Up environment
 - Entire project was run in Google Colab.
